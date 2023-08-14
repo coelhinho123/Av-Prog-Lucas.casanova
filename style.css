@@ -1,6 +1,6 @@
 
 :root{
-    --cor-de-fundo: #482813;
+    --cor-de-fundo: #5e8349;
     --branco-principal: #FFFFFF;
     --fundo-degrade: #482813,#B58D73;
 }
@@ -46,7 +46,7 @@ header{
 
 .tema__titulo{
     color: var(--branco-principal);
-    font-size: 40px;
+    font-size: 50px;
 }
 
 .tema__descricao{
